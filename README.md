@@ -14,7 +14,7 @@
 >
 > 📩 For implementation review or source-code access, contact the author.
 > 
-> Contact: [YOUR_EMAIL_HERE](mailto:YOUR_EMAIL_HERE)
+> Contact: [hvsr29march2004@gmail.com](mailto:hvsr29march2004@gmail.com)
 >
 > [**View Original Repository →**](https://github.com/ItsDeadlyProgrammer/OperatingSystem)
 
@@ -36,9 +36,9 @@ Get the pre-built binaries from the original repository:
 A complete walkthrough of the OS Simulator's features and multi-platform capabilities.
 
 <p align="center">
-  <img src="./demo/OS-Simulator.mp4" width="100%" alt="OS Simulator Walkthrough">
+  <img src="demo/OS-Simulator.gif" width="100%" alt="OS Simulator Walkthrough">
   <br>
-  <i>(View the full high-quality video in the <a href="./demo/">Demo Gallery</a>)</i>
+  <i>Interactive OS simulation and visualization walkthrough</i>
 </p>
 
 ---
