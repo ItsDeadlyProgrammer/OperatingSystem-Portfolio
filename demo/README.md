@@ -15,7 +15,7 @@ Try the interactive simulator directly in your browser (compiled via Kotlin/Wasm
 A complete demonstration of the application's multi-platform capabilities and simulation modules.
 
 <p align="center">
-  <img src="demo/OS-Simulator.gif" width="100%" alt="OS Simulator Walkthrough">
+  <img src="./OS-Simulator.gif" width="100%" alt="OS Simulator Walkthrough">
   <br>
   <i>Interactive OS simulation and visualization walkthrough</i>
 </p>
