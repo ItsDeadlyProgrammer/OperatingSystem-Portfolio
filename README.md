@@ -24,7 +24,7 @@
 
 ### 🌐 Web Simulator
 Experience the full application directly in your browser, compiled to WebAssembly for native performance:
-[**Launch Live Web Demo →**](https://itsdeadlyprogrammer.github.io/OperatingSystem/)
+[**Launch Live Web Demo →**](https://verdant-cat-fac52f.netlify.app/)
 
 ### 📱 Android & Desktop Downloads
 Get the pre-built binaries from the original repository:
