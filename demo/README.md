@@ -6,7 +6,7 @@ Welcome to the OS Simulator demonstration area. This page provides a walkthrough
 
 Try the interactive simulator directly in your browser (compiled via Kotlin/Wasm):
 
-[**🚀 Launch Live Web Simulator →**](https://itsdeadlyprogrammer.github.io/OperatingSystem/)
+[**🚀 Launch Live Web Simulator →**](https://verdant-cat-fac52f.netlify.app/)
 
 ---
 
